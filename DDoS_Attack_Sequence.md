@@ -1,9 +1,9 @@
-' ' 'mermaid
-sequenceDiagram
-   participant Attacker
-   participant BotNet
-   participant Firewall
-   participant WebServer
+' ' 'mermaid  
+sequenceDiagram  
+   participant Attacker  
+   participant BotNet  
+   participant Firewall  
+   participant WebServer  
 
 ' ' '
 
