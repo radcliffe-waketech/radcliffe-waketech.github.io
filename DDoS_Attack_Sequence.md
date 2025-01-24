@@ -5,9 +5,6 @@ sequenceDiagram
    participant Firewall  
    participant WebServer  
 
-
-' ' '
-
     Attacker ->> BotNet: Attacker utilizes BotNets (Zombies)
     BotNet ->> Firewall: BotNets are (ideally) blocked by Firewall
     BotNet ->> WebServer: BotNets overload network traffic to WebServer, rendering it inaccessible
@@ -20,3 +17,5 @@ sequenceDiagram
 
 ## Mitigation
  * A Firewall is useful in filtering out potentially malicious network traffic.
+
+'''
