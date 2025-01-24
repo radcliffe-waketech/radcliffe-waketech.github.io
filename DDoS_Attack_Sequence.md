@@ -5,6 +5,7 @@ sequenceDiagram
    participant Firewall  
    participant WebServer  
 
+
 ' ' '
 
     Attacker ->> BotNet: Attacker utilizes BotNets (Zombies)
