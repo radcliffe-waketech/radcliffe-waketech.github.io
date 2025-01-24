@@ -1,11 +1,11 @@
-'''mermaid
+' ' 'mermaid
 sequenceDiagram
    participant Attacker
    participant BotNet
    participant Firewall
    participant WebServer
 
-'''
+' ' '
 
     Attacker ->> BotNet: Attacker utilizes BotNets (Zombies)
     BotNet ->> Firewall: BotNets are (ideally) blocked by Firewall
