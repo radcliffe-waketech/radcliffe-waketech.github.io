@@ -9,5 +9,5 @@ Repository Description: This repository will contain assignments.
 ## Interests
  My interests include music production, golf, traveling, candle-lit dinners, and long walks on the (preferably not snowy) beach.
 ## Websites I Recommend
-* [Reddit](http://www.reddit.com): I appreciate Reddit's discussion boards which cover various topics.
-* [Cracked](http://www.cracked.com): Cracked is a humorous website that I _perpetually_ hope will make a comeback.
+* [Reddit](http://www.reddit.com): I appreciate Reddit's discussion boards which cover various topics and allow for users to share their interests via web-based digital format.
+* [Cracked](http://www.cracked.com): Cracked is a humorous website that I _perpetually_ hope will make a comeback.  It contains numerous articles and user-submitted content meant for entertainment purposes.
