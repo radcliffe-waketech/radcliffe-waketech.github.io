@@ -21,7 +21,7 @@ function fetchGradeData() {
             }
     }.bind(this);
     xhr.open("get", apiRoute, true);
-    xhr.send()
+    xhr.send();
 }
 
 //TODO: Populate the table with grade data
